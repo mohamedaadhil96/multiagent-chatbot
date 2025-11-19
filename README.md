@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     Start --> Supervisor
     Supervisor -->|greeting| greeting
